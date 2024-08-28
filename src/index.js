@@ -1,1 +1,2 @@
-console.log ("Bem vindo ao meu primeiro código .")
+let nome = "Bruno"
+console.log (nome)
